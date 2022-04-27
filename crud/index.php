@@ -30,7 +30,7 @@
         <div class="d-flex justify-content-center">
         <style>
         #preview{
-        width:400px;
+        width: 420px;
         height: 400px;
         margin:0px auto;
         }

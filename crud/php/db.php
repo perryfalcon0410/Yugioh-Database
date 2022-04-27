@@ -34,7 +34,7 @@ function Createdb(){
             echo "Cannot created table.";
         }
     }else{
-        echo "Error while creating database". mysqli_error($con);
+        echo "Error while creating database.". mysqli_error($con);
     }
 
 }
